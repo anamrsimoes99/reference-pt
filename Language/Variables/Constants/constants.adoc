@@ -25,7 +25,7 @@ Existem duas constantes usadas para representar verdade e falsidade na linguagem
 
 [float]
 === true
-`true` é freqeuentemente dito ser definido como 1, o que está correto, porém true possui uma definição mais ampla. Qualquer inteiro que não seja zero é `true`, em um sentido booleano. Então -1, 2 e -200 são todos definidos como true, também, em um sentido booleano.
+`true` é frequentemente dito ser definido como 1, o que está correto, porém true possui uma definição mais ampla. Qualquer inteiro que não seja zero é `true`, em um sentido booleano. Então -1, 2 e -200 são todos definidos como true, também, em um sentido booleano.
 [%hardbreaks]
 
 Note que as constantes `true` e `false` são digitadas em caixa baixa, diferentemente de `HIGH`, `LOW`, `INPUT`, and `OUTPUT`.
